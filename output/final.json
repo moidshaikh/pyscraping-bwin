@@ -1,0 +1,792 @@
+[
+    {
+        "tournament": "WTA",
+        "eventName": "Cristina Bucsa (ESP) vs Kateryna Baindl (UKR)",
+        "player1": "Cristina Bucsa (ESP)",
+        "player2": "Kateryna Baindl (UKR)",
+        "player1_odds": 2.1,
+        "player2_odds": 1.7,
+        "eventdate": "2022-12-01 14:15",
+        "lastupdate": "2022-12-01 14:15"
+    },
+    {
+        "tournament": "WTA",
+        "eventName": "Tatjana Maria (GER) vs Ana Konjuh (CRO)",
+        "player1": "Tatjana Maria (GER)",
+        "player2": "Ana Konjuh (CRO)",
+        "player1_odds": 2.1,
+        "player2_odds": 1.7,
+        "eventdate": "2022-12-01 16:15",
+        "lastupdate": "2022-12-01 16:15"
+    },
+    {
+        "tournament": "WTA",
+        "eventName": "Shuai Zhang (CHN) vs Sophie Chang (USA)",
+        "player1": "Shuai Zhang (CHN)",
+        "player2": "Sophie Chang (USA)",
+        "player1_odds": 1.13,
+        "player2_odds": 5.75,
+        "eventdate": "2022-12-01 18:15",
+        "lastupdate": "2022-12-01 18:15"
+    },
+    {
+        "tournament": "WTA",
+        "eventName": "Sabine Lisicki (GER) vs Alycia Parks (USA)",
+        "player1": "Sabine Lisicki (GER)",
+        "player2": "Alycia Parks (USA)",
+        "player1_odds": 1.95,
+        "player2_odds": 1.83,
+        "eventdate": "2022-12-02 09:00",
+        "lastupdate": "2022-12-02 09:00"
+    },
+    {
+        "tournament": "WTA",
+        "eventName": "J. Ponchet/R. Voracova vs V. Heisen/N. Kichenok",
+        "player1": "J. Ponchet/R. Voracova",
+        "player2": "V. Heisen/N. Kichenok",
+        "player1_odds": 1.65,
+        "player2_odds": 2.1,
+        "eventdate": "2022-12-01 15:45",
+        "lastupdate": "2022-12-01 15:45"
+    },
+    {
+        "tournament": "WTA",
+        "eventName": "B. Schoofs/R. Van Der Hoek vs A. Gabueva/A. Zakharova",
+        "player1": "B. Schoofs/R. Van Der Hoek",
+        "player2": "A. Gabueva/A. Zakharova",
+        "player1_odds": 2.25,
+        "player2_odds": 1.57,
+        "eventdate": "2022-12-01 17:45",
+        "lastupdate": "2022-12-01 17:45"
+    },
+    {
+        "tournament": "WTA",
+        "eventName": "G. Garcia Perez/V. Jimenez Kasintseva vs A. Panova/A. Parks",
+        "player1": "G. Garcia Perez/V. Jimenez Kasintseva",
+        "player2": "A. Panova/A. Parks",
+        "player1_odds": 2.95,
+        "player2_odds": 1.35,
+        "eventdate": "2022-12-01 20:15",
+        "lastupdate": "2022-12-01 20:15"
+    },
+    {
+        "tournament": "Challenger",
+        "eventName": "Raphael Collignon (BEL) vs Riccardo Bonadio (ITA)",
+        "player1": "Raphael Collignon (BEL)",
+        "player2": "Riccardo Bonadio (ITA)",
+        "player1_odds": 1.75,
+        "player2_odds": 1.95,
+        "eventdate": "2022-12-01 15:15",
+        "lastupdate": "2022-12-01 15:15"
+    },
+    {
+        "tournament": "Challenger",
+        "eventName": "Aleksandar Vukic (AUS) vs Jurij Rodionov (AUT)",
+        "player1": "Aleksandar Vukic (AUS)",
+        "player2": "Jurij Rodionov (AUT)",
+        "player1_odds": 1.83,
+        "player2_odds": 1.87,
+        "eventdate": "2022-12-02 10:00",
+        "lastupdate": "2022-12-02 10:00"
+    },
+    {
+        "tournament": "Challenger",
+        "eventName": "F. Coelho/G. Falcao vs J. Cash/H. Patten",
+        "player1": "F. Coelho/G. Falcao",
+        "player2": "J. Cash/H. Patten",
+        "player1_odds": 6.75,
+        "player2_odds": 1.06,
+        "eventdate": "2022-12-01 15:15",
+        "lastupdate": "2022-12-01 15:15"
+    },
+    {
+        "tournament": "Challenger",
+        "eventName": "N. Borges/F. Cabral vs J. Faria/D. Vale",
+        "player1": "N. Borges/F. Cabral",
+        "player2": "J. Faria/D. Vale",
+        "player1_odds": 1.08,
+        "player2_odds": 6.0,
+        "eventdate": "2022-12-01 17:15",
+        "lastupdate": "2022-12-01 17:15"
+    },
+    {
+        "tournament": "Challenger",
+        "eventName": "Gian Marco Moroni (ITA) vs Steven Diez (CAN)",
+        "player1": "Gian Marco Moroni (ITA)",
+        "player2": "Steven Diez (CAN)",
+        "player1_odds": 1.4,
+        "player2_odds": 2.7,
+        "eventdate": "2022-12-02 10:00",
+        "lastupdate": "2022-12-02 10:00"
+    },
+    {
+        "tournament": "Challenger",
+        "eventName": "Pablo Llamas Ruiz (ESP) vs Lorenzo Giustino (ITA)",
+        "player1": "Pablo Llamas Ruiz (ESP)",
+        "player2": "Lorenzo Giustino (ITA)",
+        "player1_odds": 1.36,
+        "player2_odds": 2.9,
+        "eventdate": "2022-12-02 10:00",
+        "lastupdate": "2022-12-02 10:00"
+    },
+    {
+        "tournament": "Challenger",
+        "eventName": "A. Moro Canas/O. Roca Batalla vs M. Bortolotti/S. Martos Gornes",
+        "player1": "A. Moro Canas/O. Roca Batalla",
+        "player2": "M. Bortolotti/S. Martos Gornes",
+        "player1_odds": 2.35,
+        "player2_odds": 1.5,
+        "eventdate": "2022-12-01 14:15",
+        "lastupdate": "2022-12-01 14:15"
+    },
+    {
+        "tournament": "Challenger",
+        "eventName": "E. King/R. Stalder vs A. Barroso Campos/I. Lopez Morillo",
+        "player1": "E. King/R. Stalder",
+        "player2": "A. Barroso Campos/I. Lopez Morillo",
+        "player1_odds": 1.4,
+        "player2_odds": 2.65,
+        "eventdate": "2022-12-01 14:15",
+        "lastupdate": "2022-12-01 14:15"
+    },
+    {
+        "tournament": "ITF Men",
+        "eventName": "I. Benzal Alia/A. Cohen vs J. Echeverria/M. Mansilla Diez",
+        "player1": "I. Benzal Alia/A. Cohen",
+        "player2": "J. Echeverria/M. Mansilla Diez",
+        "player1_odds": 4.2,
+        "player2_odds": 1.16,
+        "eventdate": "2022-12-01 13:15",
+        "lastupdate": "2022-12-01 13:15"
+    },
+    {
+        "tournament": "ITF Men",
+        "eventName": "Roberto Cid Subervi (DOM) vs Joshua Sheehy (USA)",
+        "player1": "Roberto Cid Subervi (DOM)",
+        "player2": "Joshua Sheehy (USA)",
+        "player1_odds": 1.11,
+        "player2_odds": 5.25,
+        "eventdate": "2022-12-01 13:45",
+        "lastupdate": "2022-12-01 13:45"
+    },
+    {
+        "tournament": "ITF Men",
+        "eventName": "Alejandro Hoyos Franco (COL) vs Darian King (BAR)",
+        "player1": "Alejandro Hoyos Franco (COL)",
+        "player2": "Darian King (BAR)",
+        "player1_odds": 4.2,
+        "player2_odds": 1.17,
+        "eventdate": "2022-12-01 13:45",
+        "lastupdate": "2022-12-01 13:45"
+    },
+    {
+        "tournament": "ITF Men",
+        "eventName": "Noah Schachter (USA) vs Liam Draxl (CAN)",
+        "player1": "Noah Schachter (USA)",
+        "player2": "Liam Draxl (CAN)",
+        "player1_odds": 5.25,
+        "player2_odds": 1.11,
+        "eventdate": "2022-12-01 13:45",
+        "lastupdate": "2022-12-01 13:45"
+    },
+    {
+        "tournament": "ITF Men",
+        "eventName": "Nick Hardt (DOM) vs Marko Stakusic (CAN)",
+        "player1": "Nick Hardt (DOM)",
+        "player2": "Marko Stakusic (CAN)",
+        "player1_odds": 1.04,
+        "player2_odds": 8.0,
+        "eventdate": "2022-12-01 15:45",
+        "lastupdate": "2022-12-01 15:45"
+    },
+    {
+        "tournament": "ITF Men",
+        "eventName": "Andrei Duarte (COL) vs Peter Bertran (DOM)",
+        "player1": "Andrei Duarte (COL)",
+        "player2": "Peter Bertran (DOM)",
+        "player1_odds": 5.5,
+        "player2_odds": 1.1,
+        "eventdate": "2022-12-01 17:45",
+        "lastupdate": "2022-12-01 17:45"
+    },
+    {
+        "tournament": "ITF Men",
+        "eventName": "A. Jones/S. Liokossis vs J. Flores/J. Sheehy",
+        "player1": "A. Jones/S. Liokossis",
+        "player2": "J. Flores/J. Sheehy",
+        "player1_odds": 6.75,
+        "player2_odds": 1.05,
+        "eventdate": "2022-12-01 17:45",
+        "lastupdate": "2022-12-01 17:45"
+    },
+    {
+        "tournament": "ITF Men",
+        "eventName": "F. Boscarino/M. Greschner vs D. King/X. Lawrence",
+        "player1": "F. Boscarino/M. Greschner",
+        "player2": "D. King/X. Lawrence",
+        "player1_odds": 2.9,
+        "player2_odds": 1.33,
+        "eventdate": "2022-12-01 17:45",
+        "lastupdate": "2022-12-01 17:45"
+    },
+    {
+        "tournament": "ITF Men",
+        "eventName": "J. Chin/M. Jones vs M. FostervsEstwick/J. A. Rodriguez Rodriguez",
+        "player1": "J. Chin/M. Jones",
+        "player2": "M. Foster-Estwick/J. A. Rodriguez Rodriguez",
+        "player1_odds": 1.8,
+        "player2_odds": 1.83,
+        "eventdate": "2022-12-01 19:45",
+        "lastupdate": "2022-12-01 19:45"
+    },
+    {
+        "tournament": "ITF Men",
+        "eventName": "T. Hilderbrand/N. Schachter vs N. Hardt/E. A. Segarelli",
+        "player1": "T. Hilderbrand/N. Schachter",
+        "player2": "N. Hardt/E. A. Segarelli",
+        "player1_odds": 1.08,
+        "player2_odds": 5.75,
+        "eventdate": "2022-12-01 19:45",
+        "lastupdate": "2022-12-01 19:45"
+    },
+    {
+        "tournament": "ITF Men",
+        "eventName": "Marek Gengel (CZE) vs Jan Kupcic (SLO)",
+        "player1": "Marek Gengel (CZE)",
+        "player2": "Jan Kupcic (SLO)",
+        "player1_odds": 1.14,
+        "player2_odds": 4.75,
+        "eventdate": "2022-12-01 13:15",
+        "lastupdate": "2022-12-01 13:15"
+    },
+    {
+        "tournament": "ITF Men",
+        "eventName": "D. Rincon/D. Vallejo vs S. Parker/A. Setkic",
+        "player1": "D. Rincon/D. Vallejo",
+        "player2": "S. Parker/A. Setkic",
+        "player1_odds": 1.78,
+        "player2_odds": 1.85,
+        "eventdate": "2022-12-01 15:15",
+        "lastupdate": "2022-12-01 15:15"
+    },
+    {
+        "tournament": "ITF Men",
+        "eventName": "J. Barnat/M. Vrbensky vs S. Kyjaci/T. Lanik",
+        "player1": "J. Barnat/M. Vrbensky",
+        "player2": "S. Kyjaci/T. Lanik",
+        "player1_odds": 1.08,
+        "player2_odds": 5.75,
+        "eventdate": "2022-12-01 15:15",
+        "lastupdate": "2022-12-01 15:15"
+    },
+    {
+        "tournament": "ITF Men",
+        "eventName": "S. Kopp/K. Lemstra vs M. Hermans/M. Veldheer",
+        "player1": "S. Kopp/K. Lemstra",
+        "player2": "M. Hermans/M. Veldheer",
+        "player1_odds": 1.65,
+        "player2_odds": 2.05,
+        "eventdate": "2022-12-01 15:15",
+        "lastupdate": "2022-12-01 15:15"
+    },
+    {
+        "tournament": "ITF Men",
+        "eventName": "Lucio Carnevalle (ARG) vs Mateus Alves (BRA)",
+        "player1": "Lucio Carnevalle (ARG)",
+        "player2": "Mateus Alves (BRA)",
+        "player1_odds": 6.25,
+        "player2_odds": 1.08,
+        "eventdate": "2022-12-01 14:15",
+        "lastupdate": "2022-12-01 14:15"
+    },
+    {
+        "tournament": "ITF Men",
+        "eventName": "Gabriel Schenekenberg (BRA) vs Joao Victor Couto Loureiro (BRA)",
+        "player1": "Gabriel Schenekenberg (BRA)",
+        "player2": "Joao Victor Couto Loureiro (BRA)",
+        "player1_odds": 5.75,
+        "player2_odds": 1.09,
+        "eventdate": "2022-12-01 16:15",
+        "lastupdate": "2022-12-01 16:15"
+    },
+    {
+        "tournament": "ITF Men",
+        "eventName": "Hernando Jose Escurra Isnardi (PAR) vs Gonzalo Lama (CHI)",
+        "player1": "Hernando Jose Escurra Isnardi (PAR)",
+        "player2": "Gonzalo Lama (CHI)",
+        "player1_odds": 7.75,
+        "player2_odds": 1.04,
+        "eventdate": "2022-12-01 16:15",
+        "lastupdate": "2022-12-01 16:15"
+    },
+    {
+        "tournament": "ITF Men",
+        "eventName": "Gustavo Heide (BRA) vs Franco Roncadelli (URU)",
+        "player1": "Gustavo Heide (BRA)",
+        "player2": "Franco Roncadelli (URU)",
+        "player1_odds": 1.17,
+        "player2_odds": 4.2,
+        "eventdate": "2022-12-01 16:15",
+        "lastupdate": "2022-12-01 16:15"
+    },
+    {
+        "tournament": "ITF Men",
+        "eventName": "Orlando Luz (BRA) vs Igor Gimenez (BRA)",
+        "player1": "Orlando Luz (BRA)",
+        "player2": "Igor Gimenez (BRA)",
+        "player1_odds": 1.09,
+        "player2_odds": 5.75,
+        "eventdate": "2022-12-01 18:15",
+        "lastupdate": "2022-12-01 18:15"
+    },
+    {
+        "tournament": "ITF Men",
+        "eventName": "Lorenzo Joaquin Rodriguez (ARG) vs Marcelo Zormann (BRA)",
+        "player1": "Lorenzo Joaquin Rodriguez (ARG)",
+        "player2": "Marcelo Zormann (BRA)",
+        "player1_odds": 1.48,
+        "player2_odds": 2.4,
+        "eventdate": "2022-12-01 18:15",
+        "lastupdate": "2022-12-01 18:15"
+    },
+    {
+        "tournament": "ITF Men",
+        "eventName": "Eduardo Ribeiro (BRA) vs Fernando Yamacita (BRA)",
+        "player1": "Eduardo Ribeiro (BRA)",
+        "player2": "Fernando Yamacita (BRA)",
+        "player1_odds": 1.15,
+        "player2_odds": 4.5,
+        "eventdate": "2022-12-01 21:15",
+        "lastupdate": "2022-12-01 21:15"
+    },
+    {
+        "tournament": "ITF Men",
+        "eventName": "V. M. Alves/M. Cury Bueres vs M. Alves/G. Roveri Sidney",
+        "player1": "V. M. Alves/M. Cury Bueres",
+        "player2": "M. Alves/G. Roveri Sidney",
+        "player1_odds": 6.75,
+        "player2_odds": 1.05,
+        "eventdate": "2022-12-01 18:15",
+        "lastupdate": "2022-12-01 18:15"
+    },
+    {
+        "tournament": "ITF Men",
+        "eventName": "R. Augusto dos Santos/N. Oliveira vs J. V. Couto Loureiro/G. Heide",
+        "player1": "R. Augusto dos Santos/N. Oliveira",
+        "player2": "J. V. Couto Loureiro/G. Heide",
+        "player1_odds": 6.75,
+        "player2_odds": 1.05,
+        "eventdate": "2022-12-01 21:15",
+        "lastupdate": "2022-12-01 21:15"
+    },
+    {
+        "tournament": "ITF Men",
+        "eventName": "O. Luz/M. Zormann vs L. Carnevalle/F. Mirgone",
+        "player1": "O. Luz/M. Zormann",
+        "player2": "L. Carnevalle/F. Mirgone",
+        "player1_odds": 1.07,
+        "player2_odds": 6.0,
+        "eventdate": "2022-12-01 23:15",
+        "lastupdate": "2022-12-01 23:15"
+    },
+    {
+        "tournament": "ITF Men",
+        "eventName": "I. Gimenez/G. Lomakin vs L. Pinto/P. A. Saraiva Dos Santos",
+        "player1": "I. Gimenez/G. Lomakin",
+        "player2": "L. Pinto/P. A. Saraiva Dos Santos",
+        "player1_odds": 1.15,
+        "player2_odds": 4.33,
+        "eventdate": "2022-12-01 23:15",
+        "lastupdate": "2022-12-01 23:15"
+    },
+    {
+        "tournament": "ITF Women",
+        "eventName": "Georgia Gulin (BRA) vs Josefina Estevez (ARG)",
+        "player1": "Georgia Gulin (BRA)",
+        "player2": "Josefina Estevez (ARG)",
+        "player1_odds": 1.72,
+        "player2_odds": 1.95,
+        "eventdate": "2022-12-01 14:15",
+        "lastupdate": "2022-12-01 14:15"
+    },
+    {
+        "tournament": "ITF Women",
+        "eventName": "Ilaria Sposetti (ITA) vs Valentina Mutilba (ARG)",
+        "player1": "Ilaria Sposetti (ITA)",
+        "player2": "Valentina Mutilba (ARG)",
+        "player1_odds": 2.9,
+        "player2_odds": 1.34,
+        "eventdate": "2022-12-01 14:15",
+        "lastupdate": "2022-12-01 14:15"
+    },
+    {
+        "tournament": "ITF Women",
+        "eventName": "Rocio Daniela Merlo (ARG) vs Lourdes Ayala (ARG)",
+        "player1": "Rocio Daniela Merlo (ARG)",
+        "player2": "Lourdes Ayala (ARG)",
+        "player1_odds": 5.25,
+        "player2_odds": 1.11,
+        "eventdate": "2022-12-01 14:15",
+        "lastupdate": "2022-12-01 14:15"
+    },
+    {
+        "tournament": "ITF Women",
+        "eventName": "Luisa Meyer auf der Heide (GER) vs Marina Bulbarella (ARG)",
+        "player1": "Luisa Meyer auf der Heide (GER)",
+        "player2": "Marina Bulbarella (ARG)",
+        "player1_odds": 1.05,
+        "player2_odds": 7.25,
+        "eventdate": "2022-12-01 16:15",
+        "lastupdate": "2022-12-01 16:15"
+    },
+    {
+        "tournament": "ITF Women",
+        "eventName": "M. Gomez Pezuela Cano/M. V. Marchesini vs G. Arangio/J. Keranovic",
+        "player1": "M. Gomez Pezuela Cano/M. V. Marchesini",
+        "player2": "G. Arangio/J. Keranovic",
+        "player1_odds": 1.25,
+        "player2_odds": 3.3,
+        "eventdate": "2022-12-01 16:15",
+        "lastupdate": "2022-12-01 16:15"
+    },
+    {
+        "tournament": "ITF Women",
+        "eventName": "L. Blatter/V. Mutilba vs L. Ayala/A. Vangelova",
+        "player1": "L. Blatter/V. Mutilba",
+        "player2": "L. Ayala/A. Vangelova",
+        "player1_odds": 2.85,
+        "player2_odds": 1.33,
+        "eventdate": "2022-12-01 18:15",
+        "lastupdate": "2022-12-01 18:15"
+    },
+    {
+        "tournament": "ITF Women",
+        "eventName": "Oceane Babel (FRA) vs Chanel Janssen (NED)",
+        "player1": "Oceane Babel (FRA)",
+        "player2": "Chanel Janssen (NED)",
+        "player1_odds": 1.08,
+        "player2_odds": 6.25,
+        "eventdate": "2022-12-01 14:15",
+        "lastupdate": "2022-12-01 14:15"
+    },
+    {
+        "tournament": "ITF Women",
+        "eventName": "Matilde Jorge (POR) vs Tilde Stromquist (SWE)",
+        "player1": "Matilde Jorge (POR)",
+        "player2": "Tilde Stromquist (SWE)",
+        "player1_odds": 1.44,
+        "player2_odds": 2.55,
+        "eventdate": "2022-12-01 16:15",
+        "lastupdate": "2022-12-01 16:15"
+    },
+    {
+        "tournament": "ITF Women",
+        "eventName": "P.vsC. Lee/M. V. Viviani vs Y. Kotliar/G. Pereira De Aguiar",
+        "player1": "P.-C. Lee/M. V. Viviani",
+        "player2": "Y. Kotliar/G. Pereira De Aguiar",
+        "player1_odds": 1.05,
+        "player2_odds": 6.75,
+        "eventdate": "2022-12-01 15:15",
+        "lastupdate": "2022-12-01 15:15"
+    },
+    {
+        "tournament": "ITF Women",
+        "eventName": "N. Gadient/G. Kalamaris vs I. Dapkute/J. Saner",
+        "player1": "N. Gadient/G. Kalamaris",
+        "player2": "I. Dapkute/J. Saner",
+        "player1_odds": 5.5,
+        "player2_odds": 1.09,
+        "eventdate": "2022-12-01 16:15",
+        "lastupdate": "2022-12-01 16:15"
+    },
+    {
+        "tournament": "ITF Women",
+        "eventName": "RekavsLuca Jani (HUN) vs Amina Anshba (RUS)",
+        "player1": "Reka-Luca Jani (HUN)",
+        "player2": "Amina Anshba (RUS)",
+        "player1_odds": 1.2,
+        "player2_odds": 3.9,
+        "eventdate": "2022-12-01 14:45",
+        "lastupdate": "2022-12-01 14:45"
+    },
+    {
+        "tournament": "ITF Women",
+        "eventName": "Iryna Shymanovich (BLR) vs Yvonne CavallevsReimers (ESP)",
+        "player1": "Iryna Shymanovich (BLR)",
+        "player2": "Yvonne Cavalle-Reimers (ESP)",
+        "player1_odds": 1.25,
+        "player2_odds": 3.5,
+        "eventdate": "2022-12-01 15:15",
+        "lastupdate": "2022-12-01 15:15"
+    },
+    {
+        "tournament": "ITF Women",
+        "eventName": "Whitney Osuigwe (USA) vs Laura Pigossi (BRA)",
+        "player1": "Whitney Osuigwe (USA)",
+        "player2": "Laura Pigossi (BRA)",
+        "player1_odds": 2.2,
+        "player2_odds": 1.57,
+        "eventdate": "2022-12-01 17:15",
+        "lastupdate": "2022-12-01 17:15"
+    },
+    {
+        "tournament": "ITF Women",
+        "eventName": "A. Anshba/V. Strakhova vs A. Rogers/C. Rosca",
+        "player1": "A. Anshba/V. Strakhova",
+        "player2": "A. Rogers/C. Rosca",
+        "player1_odds": 1.6,
+        "player2_odds": 2.1,
+        "eventdate": "2022-12-01 17:15",
+        "lastupdate": "2022-12-01 17:15"
+    },
+    {
+        "tournament": "ITF Women",
+        "eventName": "J. Aney/M. F. Herazo Gonzalez vs I. Gamarra Martins/F. Jorge",
+        "player1": "J. Aney/M. F. Herazo Gonzalez",
+        "player2": "I. Gamarra Martins/F. Jorge",
+        "player1_odds": 2.1,
+        "player2_odds": 1.6,
+        "eventdate": "2022-12-01 19:15",
+        "lastupdate": "2022-12-01 19:15"
+    },
+    {
+        "tournament": "ITF Women",
+        "eventName": "Kelly Williford (DOM) vs Jessica Hinojosa Gomez (MEX)",
+        "player1": "Kelly Williford (DOM)",
+        "player2": "Jessica Hinojosa Gomez (MEX)",
+        "player1_odds": 3.5,
+        "player2_odds": 1.25,
+        "eventdate": "2022-12-01 13:45",
+        "lastupdate": "2022-12-01 13:45"
+    },
+    {
+        "tournament": "ITF Women",
+        "eventName": "Bianca Jolie Fernandez (CAN) vs Malkia Ngounoue (USA)",
+        "player1": "Bianca Jolie Fernandez (CAN)",
+        "player2": "Malkia Ngounoue (USA)",
+        "player1_odds": 1.83,
+        "player2_odds": 1.83,
+        "eventdate": "2022-12-01 13:45",
+        "lastupdate": "2022-12-01 13:45"
+    },
+    {
+        "tournament": "ITF Women",
+        "eventName": "Lucie Petruzelova (CZE) vs Victoria Hu (USA)",
+        "player1": "Lucie Petruzelova (CZE)",
+        "player2": "Victoria Hu (USA)",
+        "player1_odds": 4.6,
+        "player2_odds": 1.14,
+        "eventdate": "2022-12-01 13:45",
+        "lastupdate": "2022-12-01 13:45"
+    },
+    {
+        "tournament": "ITF Women",
+        "eventName": "Brittany Collens (USA) vs Tiffany William (GBR)",
+        "player1": "Brittany Collens (USA)",
+        "player2": "Tiffany William (GBR)",
+        "player1_odds": 8.0,
+        "player2_odds": 1.04,
+        "eventdate": "2022-12-01 13:45",
+        "lastupdate": "2022-12-01 13:45"
+    },
+    {
+        "tournament": "ITF Women",
+        "eventName": "Jenna DeFalco (USA) vs Maya Dutta (USA)",
+        "player1": "Jenna DeFalco (USA)",
+        "player2": "Maya Dutta (USA)",
+        "player1_odds": 1.08,
+        "player2_odds": 6.0,
+        "eventdate": "2022-12-01 15:45",
+        "lastupdate": "2022-12-01 15:45"
+    },
+    {
+        "tournament": "ITF Women",
+        "eventName": "Tara Malik (USA) vs Brenda Yoris (USA)",
+        "player1": "Tara Malik (USA)",
+        "player2": "Brenda Yoris (USA)",
+        "player1_odds": 1.14,
+        "player2_odds": 4.75,
+        "eventdate": "2022-12-01 15:45",
+        "lastupdate": "2022-12-01 15:45"
+    },
+    {
+        "tournament": "ITF Women",
+        "eventName": "B. J. Fernandez/V. Hu vs E. Mazzoni/J. Mazzoni",
+        "player1": "B. J. Fernandez/V. Hu",
+        "player2": "E. Mazzoni/J. Mazzoni",
+        "player1_odds": 1.03,
+        "player2_odds": 7.5,
+        "eventdate": "2022-12-01 17:45",
+        "lastupdate": "2022-12-01 17:45"
+    },
+    {
+        "tournament": "ITF Women",
+        "eventName": "J. Fenton/B. Kaur vs J. Hinojosa Gomez/M. Ngounoue",
+        "player1": "J. Fenton/B. Kaur",
+        "player2": "J. Hinojosa Gomez/M. Ngounoue",
+        "player1_odds": 7.25,
+        "player2_odds": 1.04,
+        "eventdate": "2022-12-01 17:45",
+        "lastupdate": "2022-12-01 17:45"
+    },
+    {
+        "tournament": "ITF Women",
+        "eventName": "J. Renaud/R. Valdez vs M. KendallvsWoseley/T. William",
+        "player1": "J. Renaud/R. Valdez",
+        "player2": "M. Kendall-Woseley/T. William",
+        "player1_odds": 5.25,
+        "player2_odds": 1.1,
+        "eventdate": "2022-12-01 17:45",
+        "lastupdate": "2022-12-01 17:45"
+    },
+    {
+        "tournament": "ITF Women",
+        "eventName": "Laura Mair (ITA) vs Taylor Ng (USA)",
+        "player1": "Laura Mair (ITA)",
+        "player2": "Taylor Ng (USA)",
+        "player1_odds": 6.5,
+        "player2_odds": 1.07,
+        "eventdate": "2022-12-01 15:15",
+        "lastupdate": "2022-12-01 15:15"
+    },
+    {
+        "tournament": "ITF Women",
+        "eventName": "Emina Bektas (USA) vs Jana Fett (CRO)",
+        "player1": "Emina Bektas (USA)",
+        "player2": "Jana Fett (CRO)",
+        "player1_odds": 2.0,
+        "player2_odds": 1.7,
+        "eventdate": "2022-12-01 15:15",
+        "lastupdate": "2022-12-01 15:15"
+    },
+    {
+        "tournament": "ITF Women",
+        "eventName": "X. Knoll/A. Moratelli vs B. Gumulya/M. F. Navarro",
+        "player1": "X. Knoll/A. Moratelli",
+        "player2": "B. Gumulya/M. F. Navarro",
+        "player1_odds": 1.33,
+        "player2_odds": 2.85,
+        "eventdate": "2022-12-01 17:15",
+        "lastupdate": "2022-12-01 17:15"
+    },
+    {
+        "tournament": "ITF Women",
+        "eventName": "G. Carbonaro/M. Delai vs K. Sarkisova/E. Shalimova",
+        "player1": "G. Carbonaro/M. Delai",
+        "player2": "K. Sarkisova/E. Shalimova",
+        "player1_odds": 2.75,
+        "player2_odds": 1.36,
+        "eventdate": "2022-12-01 14:15",
+        "lastupdate": "2022-12-01 14:15"
+    },
+    {
+        "tournament": "ITF Women",
+        "eventName": "V. Mikhaylova/E. Shebekina vs I.vsH. Cho/Y. T. Cho",
+        "player1": "V. Mikhaylova/E. Shebekina",
+        "player2": "I.-H. Cho/Y. T. Cho",
+        "player1_odds": 6.25,
+        "player2_odds": 1.06,
+        "eventdate": "2022-12-01 14:15",
+        "lastupdate": "2022-12-01 14:15"
+    },
+    {
+        "tournament": "ITF Women",
+        "eventName": "D. Semenistaja/M. Szostak vs N. Bouzo Zanotti/M. Mettraux",
+        "player1": "D. Semenistaja/M. Szostak",
+        "player2": "N. Bouzo Zanotti/M. Mettraux",
+        "player1_odds": 1.3,
+        "player2_odds": 3.0,
+        "eventdate": "2022-12-01 14:45",
+        "lastupdate": "2022-12-01 14:45"
+    },
+    {
+        "tournament": "ITF Women",
+        "eventName": "I. Murta/A. Samudio vs L. Cortez Llorca/C. Hoste Ferrer",
+        "player1": "I. Murta/A. Samudio",
+        "player2": "L. Cortez Llorca/C. Hoste Ferrer",
+        "player1_odds": 2.85,
+        "player2_odds": 1.33,
+        "eventdate": "2022-12-01 14:45",
+        "lastupdate": "2022-12-01 14:45"
+    },
+    {
+        "tournament": "Exhibitions",
+        "eventName": "Mariya Shumeika (BLR) vs Esther Adeshina (GBR)",
+        "player1": "Mariya Shumeika (BLR)",
+        "player2": "Esther Adeshina (GBR)",
+        "player1_odds": 3.5,
+        "player2_odds": 1.26,
+        "eventdate": "2022-12-01 19:15",
+        "lastupdate": "2022-12-01 19:15"
+    },
+    {
+        "tournament": "Exhibitions",
+        "eventName": "Elza Tomase (LAT) vs Autumn Rabjohns (USA)",
+        "player1": "Elza Tomase (LAT)",
+        "player2": "Autumn Rabjohns (USA)",
+        "player1_odds": 1.1,
+        "player2_odds": 6.0,
+        "eventdate": "2022-12-01 19:15",
+        "lastupdate": "2022-12-01 19:15"
+    },
+    {
+        "tournament": "Exhibitions",
+        "eventName": "Maria Fernanda Carvajal Altamirano (MEX) vs Elizabeth Ionescu (USA)",
+        "player1": "Maria Fernanda Carvajal Altamirano (MEX)",
+        "player2": "Elizabeth Ionescu (USA)",
+        "player1_odds": 2.15,
+        "player2_odds": 1.62,
+        "eventdate": "2022-12-01 19:15",
+        "lastupdate": "2022-12-01 19:15"
+    },
+    {
+        "tournament": "Exhibitions",
+        "eventName": "Eleonora Molinaro (LUX) vs Lillie Murphy (USA)",
+        "player1": "Eleonora Molinaro (LUX)",
+        "player2": "Lillie Murphy (USA)",
+        "player1_odds": 1.1,
+        "player2_odds": 6.0,
+        "eventdate": "2022-12-01 21:15",
+        "lastupdate": "2022-12-01 21:15"
+    },
+    {
+        "tournament": "Exhibitions",
+        "eventName": "Luciana Perry (USA) vs Jennifer Jackson (USA)",
+        "player1": "Luciana Perry (USA)",
+        "player2": "Jennifer Jackson (USA)",
+        "player1_odds": 1.2,
+        "player2_odds": 4.0,
+        "eventdate": "2022-12-01 21:15",
+        "lastupdate": "2022-12-01 21:15"
+    },
+    {
+        "tournament": "Exhibitions",
+        "eventName": "Emily Baek (USA) vs Daria Kuczer (POL)",
+        "player1": "Emily Baek (USA)",
+        "player2": "Daria Kuczer (POL)",
+        "player1_odds": 5.25,
+        "player2_odds": 1.12,
+        "eventdate": "2022-12-01 21:15",
+        "lastupdate": "2022-12-01 21:15"
+    },
+    {
+        "tournament": "Exhibitions",
+        "eventName": "Daniela Rivera (VEN) vs Iulia Bucea (CAN)",
+        "player1": "Daniela Rivera (VEN)",
+        "player2": "Iulia Bucea (CAN)",
+        "player1_odds": 2.65,
+        "player2_odds": 1.42,
+        "eventdate": "2022-12-01 23:15",
+        "lastupdate": "2022-12-01 23:15"
+    },
+    {
+        "tournament": "Exhibitions",
+        "eventName": "Lauren G. AnzalottavsKynoch (PUR) vs Ralitsa Alexandrova (BUL)",
+        "player1": "Lauren G. Anzalotta-Kynoch (PUR)",
+        "player2": "Ralitsa Alexandrova (BUL)",
+        "player1_odds": 1.17,
+        "player2_odds": 4.5,
+        "eventdate": "2022-12-01 23:15",
+        "lastupdate": "2022-12-01 23:15"
+    }
+]
