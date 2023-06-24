@@ -17,6 +17,12 @@
 	logs will be separated daily. Each day will have a folder. 
 	log files will be generated each hour and saved in respective day's folder. 
 
+## Notes:
+1. Agents module is overkill, it just randomizes agent while scraping.
+2. proxy works perfectly with the script. Add proxy for unblocking
+3. Using python concurrency to speedup scraping. (5-6secs instead of 20+ seconds without concurrency)
+4. It has both implementations, concurrent and non-concurrent running of script.
+5. I've profiled the code using CProfile to guage the performance of both implementations 
 
 ## Further improvements:
 1. Names are in long format. Create function to skim first names of players. 
