@@ -7,7 +7,7 @@ lgr = getLogger(__name__)
 def main():
     t1_start = time.perf_counter()
     lgr.info("Script start")
-    link = "https://sports.bwin.com/cds-api/bettingoffer/fixtures?x-bwin-accessid=NTZiMjk3OGMtNjU5Mi00NjA5LWI2MWItZmU4MDRhN2QxZmEz&lang=en&country=SG&userCountry=SG&fixtureTypes=Standard&state=Latest&offerMapping=Filtered&offerCategories=Gridable&fixtureCategories=Gridable,NonGridable,Other&sportIds=5&tournamentIds=&competitionIds=&conferenceIds=&isPriceBoost=false&skip=0&take=500&sortBy=Tags"
+    link = f"https://sports.bwin.com/cds-api/bettingoffer/fixtures?x-bwin-accessid={id}&lang=en&country=SG&userCountry=SG&fixtureTypes=Standard&state=Latest&offerMapping=Filtered&offerCategories=Gridable&fixtureCategories=Gridable,NonGridable,Other&sportIds=5&tournamentIds=&competitionIds=&conferenceIds=&isPriceBoost=false&skip=0&take=500&sortBy=Tags"
     b = BwinScraper(link)
     b.fetch_data()
     b.export_raw_json("./output/raw.json")
